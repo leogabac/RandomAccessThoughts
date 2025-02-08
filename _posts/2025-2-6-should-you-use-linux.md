@@ -188,7 +188,7 @@ First, it is not strictly necessary to use a terminal. In major user-friendly di
 
 Also, the terminal eventually becomes a _symbol_ of your unique identity. Terminal customization is one of the ways in which users express themselves, adding a personal touch to their system. Whether it's choosing a minimalist prompt, using a colorful shell like `zsh` with `oh-my-zsh`, or configuring `neofetch` to display system info in style, your terminal setup reflects your workflow and personality.  
 
-## Windows is NOT Linux
+## Linux is NOT Windows
 
 Here, I borrowed the title from [this great article](https://linux.oneandoneis2.org/LNW.htm). If you have the time, I really encourage you to read it.  
 
