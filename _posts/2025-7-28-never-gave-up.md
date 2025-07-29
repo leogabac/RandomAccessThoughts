@@ -3,7 +3,7 @@ layout: post
 title: "I Never Gave Up, Because She Never Did"
 ---
 
-**Strength can be drawn from anywhere, for me, it came from a shining blue star named Hoshimachi Suisei.**
+**Strength can be drawn from anywhere, for me, it came from a shining comet named Hoshimachi Suisei.**
 
 This might be a strange place to start, but I’m not a particularly religious person. I grew up in a Catholic household, went to Catholic school, and did the usual rituals: monthly church, learning the catechism. But over time, I strayed from those beliefs and became what I’d call a pragmatic atheist.
 
